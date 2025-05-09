@@ -1,0 +1,10 @@
+**Política de Privacidade da Integração de Automatização de Vídeos TikTok via n8n** 
+Esta Política de Privacidade descreve como as informações são tratadas em relação à sua utilização da integração no n8n para automatizar o envio de vídeos para o TikTok. 
+**1. Dados Acessados:** Para permitir a automatização do envio de vídeos para sua conta TikTok, nossa integração acessa a permissão necessária para realizar postagens em seu nome através da Content Posting API do TikTok. 
+**2. Coleta e Uso de Dados:** Nós **não coletamos ou armazenamos** nenhuma informação pessoal sua ou de sua conta TikTok além da autorização estritamente necessária para a funcionalidade de envio de vídeos. O uso dessa autorização é limitado à finalidade de enviar os vídeos conforme configurado no seu fluxo de trabalho do n8n. 
+**3. Retenção de Dados:** A autorização para postar em sua conta TikTok será mantida enquanto você mantiver a integração ativa e não revogar o acesso. 
+**4. Segurança dos Dados:** Embora não armazenemos dados pessoais sensíveis, garantimos que o acesso à autorização é restrito e utilizado apenas para a finalidade definida. 
+**5. Compartilhamento de Dados:** Os dados necessários para a postagem (principalmente o vídeo e metadados) são compartilhados diretamente com o TikTok através da Content Posting API quando você aciona o fluxo no n8n. Não compartilhamos suas informações com terceiros para outras finalidades. 
+**6. Seus Direitos:** Você tem o direito de revogar o acesso da nossa integração à sua conta TikTok a qualquer momento nas configurações de aplicativos autorizados da sua conta TikTok. 
+**7. Contato:** Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato através de [seu e-mail de contato ou outra forma de contato]. 
+**8. Alterações na Política:** Esta Política de Privacidade pode ser atualizada periodicamente. A versão mais recente estará sempre disponível nesta página. 
